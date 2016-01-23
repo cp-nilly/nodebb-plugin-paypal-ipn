@@ -1,0 +1,31 @@
+{
+  "name": "nodebb-plugin-paypal-ipn",
+  "version": "0.0.0",
+  "description": "Embedded Paypal IPN listener for NodeBB.",
+  "dependencies": {
+    "request": ">= 2.31.0"
+  },
+  "main": "library.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cp-nilly/nodebb-plugin-paypal-ipn.git"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "paypal",
+    "instant",
+    "payment",
+    "notification",
+    "ipn"
+  ],
+  "author": "cp-nilly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cp-nilly/nodebb-plugin-paypal-ipn/issues"
+  },
+  "homepage": "https://github.com/cp-nilly/nodebb-plugin-paypal-ipn#readme",
+  "nbbpm": {
+    "compatibility": "^0.9.0"
+  }
+}
