@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-paypal-ipn",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Embedded Paypal IPN listener for NodeBB.",
   "dependencies": {
     "request": ">= 2.31.0"
